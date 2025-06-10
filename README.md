@@ -135,4 +135,45 @@ EcoBloom integrates an AI chatbot using Gemini API for:
 
 
 ---
+## ⚙️ Setup & Installation
 
+```bash
+# 1. Clone the repository
+git clone https://github.com/ishita025/ECO-BLOOM.git
+cd ECO-BLOOM
+
+# 2. Install and run backend services
+
+cd backend/apiGateway
+npm install
+npm run dev
+
+cd ../services/adminService
+npm install
+npm run dev
+
+cd ../authService
+npm install
+npm run dev
+
+cd ../mailService
+npm install
+npm run dev
+
+cd ../memberService
+npm install
+npm run dev
+
+cd ../userService
+npm install
+npm run dev
+
+# 3. Install and run the frontend
+
+cd ../../../client
+npm install
+npm run dev
+
+
+# Run backend and frontend
+Then ACCESS THE IP ADDRESS RUNNING ON LOCAL HOST : "http//---"
