@@ -2,7 +2,7 @@
 
 EcoBloom is a community-driven environmental platform designed to make urban greening accessible, transparent, and impactful. By combining intelligent guidance on plant care with donation-enabled tree plantation initiatives, EcoBloom empowers individuals, NGOs, and communities to take meaningful action against climate change.
 
-> 🏆 Developed as part of the B.Tech Final Year Project by Ishita Gupta, Garv Malhotra, and Aarsh S Lal under the guidance of Dr. Nitika Nigam, School of Computer Science, UPES.
+> 🏆 Developed as part of the B.Tech Minor Project by Ishita Gupta, Garv Malhotra, and Aarsh S Lal under the guidance of Dr. Nitika Nigam, School of Computer Science, UPES.
 
 ---
 
